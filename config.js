@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ahmedyilmaz.com',
+    website: 'http://ahmedyilmaz.com',
     github: 'https://github.com/aefluke',
     linkedin: 'https://ca.linkedin.com/in/ahmed6yilmaz',
   },
